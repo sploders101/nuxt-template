@@ -22,7 +22,9 @@
 			],
 			"@/*": [
 				"./*"
-			]
+			],
+			"vuetify/es5/*": ["./node_modules/vuetify/src/*"],
+			"vuetify/lib/*": ["./node_modules/vuetify/src/*"]
 		},
 		"types": [
 			"@types/node",
